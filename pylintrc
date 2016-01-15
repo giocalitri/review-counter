@@ -1,0 +1,2 @@
+[MESSAGES CONTROL]
+disable = no-member, old-style-class, no-init, too-few-public-methods, abstract-method, invalid-name, too-many-ancestors
